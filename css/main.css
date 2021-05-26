@@ -1,0 +1,641 @@
+/* line 1, scss/main.css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* line 6, scss/main.css */
+.pl-30 {
+  padding-left: 30px;
+}
+
+/* line 9, scss/main.css */
+.pr-30 {
+  padding-right: 30px;
+}
+
+/* line 12, scss/main.css */
+.pb-10 {
+  padding-bottom: 10px;
+}
+
+/* line 15, scss/main.css */
+.pt-10 {
+  padding-top: 10px;
+}
+
+/* line 18, scss/main.css */
+.pb-20 {
+  padding-bottom: 20px;
+}
+
+/* line 21, scss/main.css */
+.pt-20 {
+  padding-top: 20px;
+}
+
+/* line 24, scss/main.css */
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+/* line 28, scss/main.css */
+.flexbox {
+  display: flex;
+}
+
+/* line 31, scss/main.css */
+a {
+  text-decoration: none;
+  color: white;
+}
+
+/* line 35, scss/main.css */
+body {
+  font-family: 'Karma', serif;
+  font-size: 20px;
+}
+
+/* line 39, scss/main.css */
+.animation {
+  background-color: #000;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+/* line 49, scss/main.css */
+.canvas_meteor {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+/* line 54, scss/main.css */
+.terrain {
+  position: absolute;
+  bottom: 0;
+}
+
+/* line 58, scss/main.css */
+.logo {
+  font-family: 'Dancing Script', cursive;
+  background-image: url(../images/logo2.jpeg);
+  border-radius: 5%;
+}
+
+/* line 62, scss/main.css */
+.logo span {
+  color: white;
+}
+
+/* line 64, scss/main.css */
+.logo span:nth-last-child(1) {
+  color: gold;
+}
+
+/* line 67, scss/main.css */
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80px;
+  width: 100%;
+  background: #231854;
+}
+
+/* line 75, scss/main.css */
+nav > ul > li {
+  display: inline;
+  padding: 0 40px;
+}
+
+/* line 78, scss/main.css */
+nav > ul > li :hover {
+  opacity: 80%;
+}
+
+/* line 81, scss/main.css */
+li > a {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+}
+
+/* line 85, scss/main.css */
+li > a a:hover {
+  opacity: 80%;
+}
+
+/* line 88, scss/main.css */
+.nav_diff {
+  color: gold;
+}
+
+/* line 91, scss/main.css */
+.carusel {
+  padding: 100px 0;
+  background-color: #f9dba5;
+}
+
+/* line 95, scss/main.css */
+.carusel-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+/* line 100, scss/main.css */
+.carusel-content i {
+  display: inline-block;
+  padding: 10px;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+/* line 105, scss/main.css */
+.carusel-content i:hover {
+  color: grey;
+}
+
+/* line 107, scss/main.css */
+.carusel-content ul {
+  padding: 0 20px;
+  list-style: none;
+  width: 60%;
+}
+
+/* line 111, scss/main.css */
+.carusel-content li {
+  font-size: 1.5rem;
+  display: none;
+  text-align: center;
+}
+
+/* line 115, scss/main.css */
+.carusel-content li h1 {
+  font-size: 2rem;
+}
+
+/* line 117, scss/main.css */
+.carusel-content .visible {
+  display: block;
+}
+
+/* line 120, scss/main.css */
+.calltoaction {
+  width: 100%;
+  background: #063164;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* line 127, scss/main.css */
+.calltoaction div {
+  padding: 40px 0;
+  width: 60%;
+}
+
+/* line 130, scss/main.css */
+.calltoaction div h2 {
+  font-size: 26px;
+  font-weight: 300;
+  padding-bottom: 10px;
+}
+
+/* line 134, scss/main.css */
+.calltoaction div p {
+  font-size: 1rem;
+}
+
+/* line 136, scss/main.css */
+.calltoaction button {
+  font-family: 'Dancing Script', cursive;
+  color: gold;
+  width: 200px;
+  height: 55px;
+  border-radius: 10%;
+  background: #1f1f29;
+  font-size: 1.5rem;
+}
+
+/* line 145, scss/main.css */
+.info-section {
+  color: #063164;
+  background: #f9dba5;
+}
+
+/* line 148, scss/main.css */
+.info-section .info-item {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* line 151, scss/main.css */
+.info-section .info-item .info-box {
+  text-align: center;
+  width: 20rem;
+}
+
+/* line 154, scss/main.css */
+.info-section .info-item .info-box h2 {
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/* line 158, scss/main.css */
+.info-section .info-item .info-box p {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 3rem;
+  color: #231854;
+}
+
+/* line 163, scss/main.css */
+.info-section .info-item .info-box .icon {
+  font-size: 4rem;
+  color: #231854;
+  padding: 2.5rem;
+}
+
+/* line 167, scss/main.css */
+.info-section .info-item .info-box .icon i {
+  font-size: 50px;
+}
+
+/* line 170, scss/main.css */
+.about_me {
+  font-size: 1.3rem;
+  background-color: #f9dba5;
+  padding: 100px 0;
+}
+
+/* line 174, scss/main.css */
+.about_me .container_me {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+/* line 178, scss/main.css */
+.about_me .container_me .author_pic {
+  max-width: 30%;
+  width: 336px;
+  height: 336px;
+  background-image: url(../images/draconids.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 185, scss/main.css */
+.about_me .container_me .author_description {
+  width: 50%;
+}
+
+/* line 187, scss/main.css */
+.about_me .container_me .author_description h3 {
+  font-size: 1.9rem;
+  font-weight: 500;
+  margin-bottom: 0.75em;
+}
+
+/* line 191, scss/main.css */
+.about_me .container_me .author_description p {
+  overflow: hidden;
+  font-weight: 500;
+}
+
+/* line 195, scss/main.css */
+footer {
+  background-color: #231854;
+  color: white;
+}
+
+/* line 198, scss/main.css */
+footer h3 {
+  margin-bottom: 15px;
+  font-weight: 400;
+}
+
+/* line 201, scss/main.css */
+footer div:first-child {
+  justify-content: space-evenly;
+}
+
+/* line 204, scss/main.css */
+.footerElements {
+  padding: 30px;
+  width: 250px;
+  font-size: 15px;
+}
+
+/* line 208, scss/main.css */
+.footerElements input {
+  width: 100px;
+  height: 25px;
+}
+
+/* line 211, scss/main.css */
+.footerElements button {
+  padding: 5px;
+}
+
+/* line 214, scss/main.css */
+.socialMedia {
+  font-size: 30px;
+}
+
+/* line 216, scss/main.css */
+.socialMedia i {
+  padding: 25px 25px 0 0;
+}
+
+/* line 219, scss/main.css */
+.ender {
+  font-size: 0.9em;
+  padding: 10px 0;
+  background-color: #063164;
+  color: white;
+  text-align: center;
+}
+
+/* line 225, scss/main.css */
+.ender span {
+  color: gold;
+}
+
+/* line 228, scss/main.css */
+.button_container {
+  background: #009273;
+  position: relative;
+}
+
+/* line 231, scss/main.css */
+.button_container .show_form_btn {
+  font-family: 'Dancing Script', cursive;
+  color: gold;
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  background: #1f1f29;
+  font-size: 1rem;
+}
+
+/* line 245, scss/main.css */
+.map_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* line 251, scss/main.css */
+.NASAPic_container {
+  background: #009273;
+  font-family: 'Karma', serif;
+}
+
+/* line 254, scss/main.css */
+.NASAPic_container .NASAHeader {
+  padding-top: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 2rem;
+}
+
+/* line 259, scss/main.css */
+.NASAPic_container .NASAPic {
+  padding-top: 2rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* line 265, scss/main.css */
+.NASAPic_container .photo {
+  padding-top: 2rem;
+  height: 500px;
+  width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 272, scss/main.css */
+.NASAPic_container .pic_description {
+  padding-top: 2.5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  text-align: center;
+}
+
+/* line 277, scss/main.css */
+.NASAPic_container .pic_date {
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* line 283, scss/main.css */
+.NASAPic_container .date_picker {
+  padding-top: 2rem;
+}
+
+/* line 286, scss/main.css */
+.met_shower_dates {
+  background: #009273;
+}
+
+/* line 288, scss/main.css */
+.met_shower_dates .event_element {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* line 293, scss/main.css */
+.met_shower_dates .event_element .event_name {
+  text-transform: uppercase;
+}
+
+/* line 295, scss/main.css */
+.met_shower_dates .event_element .peak_hour {
+  font-weight: bold;
+}
+
+/* line 298, scss/main.css */
+.hidden_desc {
+  display: none;
+}
+
+/* line 301, scss/main.css */
+.img_desc {
+  text-align: center;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+/* line 306, scss/main.css */
+.gradient_picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 311, scss/main.css */
+.description_button {
+  font-family: 'Dancing Script', cursive;
+  color: gold;
+  width: 150px;
+  height: 50px;
+  border-radius: 10%;
+  background: #1f1f29;
+  font-size: 1.5rem;
+}
+
+/* line 320, scss/main.css */
+.hidden_form {
+  display: none;
+}
+
+/* line 323, scss/main.css */
+.visible_form {
+  background: #009273;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+/* line 327, scss/main.css */
+.visible_form .form_errors {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* line 332, scss/main.css */
+.visible_form .form_field {
+  background: gold;
+  width: 30%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+}
+
+/* line 340, scss/main.css */
+.visible_form .form_flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* line 345, scss/main.css */
+.visible_form .form_flex .form_label {
+  font-weight: bold;
+}
+
+/* line 347, scss/main.css */
+.visible_form .form_flex .form_btn {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-family: 'Dancing Script', cursive;
+  color: gold;
+  width: 100px;
+  height: 30px;
+  border-radius: 10%;
+  background: #1f1f29;
+  font-size: 1.2rem;
+}
+
+/* line 358, scss/main.css */
+.spinner {
+  height: 88vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #009273;
+}
+
+/* line 365, scss/main.css */
+.flash_message {
+  border: black solid 2px;
+  color: black;
+  width: 400px;
+  height: 35px;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: 10px;
+  background: red;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 380, scss/main.css */
+.translate {
+  font-family: 'Dancing Script', cursive;
+  color: black;
+  background-image: url(../images/Poland-Flag.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 150px;
+  height: 40px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/* line 397, scss/main.css */
+.translate_to_pl {
+  font-family: 'Dancing Script', cursive;
+  color: black;
+  background-image: url(../images/United-Kingdom-Flag.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 150px;
+  height: 40px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/* line 414, scss/main.css */
+.map_spinner {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}

@@ -1,0 +1,219 @@
+.button_container {
+  background: #009273;
+  position: relative;
+.show_form_btn {
+  font-family: 'Dancing Script', cursive;
+  color: $logoColor;
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  background: #1f1f29;
+  font-size: 1rem;
+  }
+}
+
+.map_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.NASAPic_container {
+  background: #009273;
+  font-family: 'Karma', serif;
+  .NASAHeader {
+    padding-top: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 2rem;
+  }
+  .NASAPic {
+    padding-top: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .photo {
+    padding-top: 2rem;
+    height: 500px;
+    width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .pic_description {
+    padding-top: 2.5rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    text-align: center;
+  }
+  .pic_date {
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .date_picker {
+    padding-top: 2rem;
+  }
+}
+
+.met_shower_dates {
+  background: #009273;
+  .event_element {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .event_name {
+      text-transform: uppercase;
+    }
+    .peak_hour {
+      font-weight: bold;
+    }
+  }
+}
+
+.hidden_desc {
+  display: none;
+}
+
+.img_desc {
+  text-align: center;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.gradient_picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.description_button {
+  font-family: 'Dancing Script', cursive;
+  color: $logoColor;
+  width: 150px;
+  height: 50px;
+  border-radius: 10%;
+  background: #1f1f29;
+  font-size: 1.5rem;
+}
+
+.hidden_form {
+  display: none;
+}
+.visible_form {
+  background: #009273;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  .form_errors {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .form_field {
+    background: $logoColor;
+    width: 30%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+  }
+  .form_flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .form_label {
+      font-weight: bold;
+    }
+    .form_btn {
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+      font-family: 'Dancing Script', cursive;
+      color: $logoColor;
+      width: 100px;
+      height: 30px;
+      border-radius: 10%;
+      background: #1f1f29;
+      font-size: 1.2rem;
+    }
+  }
+}
+
+.spinner {
+  height: 88vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #009273;
+}
+
+.flash_message {
+  border: black solid 2px;
+  color: black;
+  width: 400px;
+  height: 35px;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: 10px;
+  background: red;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.translate {
+  font-family: 'Dancing Script', cursive;
+  color: black;
+  background-image: url(../images/Poland-Flag.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 150px;
+  height: 40px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.translate_to_pl {
+  font-family: 'Dancing Script', cursive;
+  color: black;
+  background-image: url(../images/United-Kingdom-Flag.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 150px;
+  height: 40px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.map_spinner {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}

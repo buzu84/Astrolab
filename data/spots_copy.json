@@ -1,0 +1,406 @@
+{
+  "spots": [
+    {
+      "id": 1,
+      "name": "Banica",
+      "type": "spot",
+      "lat": 49.53277778,
+      "lng": 21.30861111,
+      "description": "Miejsce wręcz idealne na szybkie wypady obserwacyjne. Dojazd caly czas asfaltem od Gorlic. Praktycznie juz od Pętnej jedziemy caly czas pod gorke(okolo 19 km). Dojeżdzając do skrzyżowania drogi na Wołowiec oraz Jasionke zatrzymujemy sie. Miejsce do obserwacji to dość duża polanka za rozjazdem dróg(wysokość około 614 m.n.p.m). Połnocne niebo nieco przysłaniają nam dwie wyższe górki ok. 20 stopni, reszta nieboskłonu widoczna juz od około 10 stopni. Jakies 600-700 metrów dalej znajduje sie agroturystyka Gościniec Banica. Tak ze spokojnie można sobie nawet weekend zaplanowac pod pieknym niebem. Ogolnie dużo szlaków rowerowych oraz pieszych. Malym minusem jest fakt, ze polanka znaduje się blisko drogi asfaltowej i czasami (choć rzadko) przejezdna czasami tędy samochod, a jak wiadomo my nie lubimy sztucznych świateł, ale wyjsciem z problemu zaszycie się troche dalej na polanie."
+    },
+    {
+      "id": 2,
+      "name": "Radocyna",
+      "type": "spot",
+      "lat": 49.46777778,
+      "lng": 21.37305556,
+      "description": "Niebo zdecydowanie ciemniejsze, dojazd niestety gorszy (droga od Krzywej szutrowa). Sama Radocyna znajduje sie na wysokość około 514 m.n.p.m. Tutaj to już praktycznie przeszkadzać w nocy może nam jakaś sowa, chociaż czasem może jakiś samochod pojawić się który jedzie własnie do Schroniska Nadleśnictwa. Miejsce co jest praktycznie ostatnim miejscem na mapie w tej okolicy. W samej Radocynie pozostaly dwa budynki, Schronisko Nadleśnictwa oraz samo Nadleśnictwo."
+    },
+    {
+      "id": 3,
+      "name": "Wyszowatka",
+      "type": "spot",
+      "lat": 49.45972222,
+      "lng": 21.40166667,
+      "description": "Miejsce dla koogoś kto by chciał sie zajać astrofoto. Miejsce odlegle od samej Radocyny-około 2 km dalej. Ale znajduje się zdecydowanie wyżej,  wysokość około 600 m.n.p.m, (a wiadomo co nam to daje). Osobiście miałem tylko raz przyjemność tam obserowac i zauważyłem, ze delikatny wiaterek który tam wieje pomaga w odraszaniu sprzętu. Generalnie cisza, spokoj i piekne niebo."
+    },
+    {
+      "id": 4,
+      "name": "Przełęcz Szklarska",
+      "type": "spot",
+      "lat": 49.48222222,
+      "lng": 21.80750000,
+      "description": "Łatwo tam dojechać z Krosna, które jest najbliższą większą miejscowością (50 000 mieszkańców, 22 km na północ w linii prostej). Horyzont nigdzie nie obcięty więcej niż o jakieś 5 stopni. Na północ w nieco mniejszej odległości znajdują się jeszcze inne kilkutysięczne miejscowości (Iwonicz, Iwonicz Zdrój, Rymanów), które dokładają się lekkiego pojaśnienia nieba na północy. Kilkaset metrów na zachód znajduje się jakaś stacja przekaźnikowa, na której szczycie świeci czerwona lampka. Niestety, w 2014 roku na stacji przekaźnikowej pojawiła się druga lampka, znacznie jaśniejsza od poprzedniej, która trochę przeszkadza w obserwacjach. Bardzo delikatne pojaśnienie nieba występuje również od strony południowej, wysokość około 600 m.n.p.m. Trzeba jednak zaznaczyć, że niebo jest jednak bardzo czarne - widziałem tam zarówno cienie od Wenus jak i przeciwblask."
+    },
+    {
+      "id": 5,
+      "name": "Ożenna",
+      "type": "spot",
+      "lat": 49.44388889,
+      "lng": 21.49083333,
+      "description": "Okolo 2 km od Ożennej, na zboczu góry Nad Tysowym,  wysokość 650 m.n.p.m. Jest to około 10 km na wschód od Radocyny. Miejsce jest niemalże idealne, ale dojazd do niego jest marny. Co więcej jest to w Magurskim Parku Narodowym, więc nie powinno się schodzić ze szlaku (drogi). Bardzo delikatnie rozświetlenie nieba widoczne tylko w kilku miejscach nad horyzontem - w kierunku Krosna (50 000 mieszkańców, 33 km w linii prostej), Bardejova (~30 000 mieszkańców i około 20 km w linii prostej), Jasła (40 000 mieszkańców i 33 km w linii prostej)."
+    },
+    {
+      "id": 6,
+      "name": "Tarnawa Duża",
+      "type": "spot",
+      "lat": 50.84277778,
+      "lng": 22.675,
+      "description": "Łąki wokół wioski znajdującej się około 50km na zachód od Zamościa i około 50km na południe od Lublina. Na horyzoncie miejscami drzewa, lekka łuna od północy od Wysokiego. W nocy wsie wyłączają latarnie przez co niebo wyczernia się do tego stopnia że jest to dobre miejsce do obserwacji zarówno wizualnych jak i przez teleskop. Struktury Drogi Mlecznej widoczne bez problemu, chmury gwiezdne w Strzelcu wyraźnie widoczne. M31 widoczna bez zerkania (zależy od mgły). Jedyną wadą jest spora wilgoć, która tworzy mgłę i rosę bez względu na porę roku"
+    },
+    {
+      "id": 7,
+      "name": "Szklarnia",
+      "type": "spot",
+      "lat": 50.64472222,
+      "lng": 22.405,
+      "description": "Miejscowość schowana jest w lasach Janowskich, w okolicy znajduje się trochę polan. Jako że prawie w każdą stronę mamy całe kilometry drzew LP jest ograniczone a Droga Mleczna widoczna jest całkiem nieźle. Nie jest to może idealne miejsce do obserwacji biorąc pod uwagę brak horyzontu jednak niebo jest ciemne i obiekty głębokiego nieba można oglądać bez problemu."
+    },
+    {
+      "id": 8,
+      "name": "Domasławice",
+      "type": "spot",
+      "lat": 54.39138889,
+      "lng": 16.43111111,
+      "description": "Niedaleko do morza i daleko od wszelkich latarni. Okoliczne wsie wyłączają światła uliczne po 22 dzięki czemu na niebie zarysowuje się naprawdę piękna Droga Mleczna. Obraz obiektów głębokiego nieba jest czysty a M31 widoczna bezpośrednio i zajmuje na niebie całkiem pokaźne rozmiary w porównaniu do tego co można zobaczyć na wsi za miastem. Jedyną wadą są lasery bijące po niebie z Darłowa/Darłówka, w okresie letnim, niebo jest już całkiem czarne i robi wrażenie."
+    },
+    {
+      "id": 9,
+      "name": "Dęby",
+      "type": "spot",
+      "lat": 50.5525,
+      "lng": 23.85194444,
+      "description": "Kawałek drogi od granicy z Ukrainą. Łuna na północny wschód od Lubyczy Królewskiej i malutkie łuny w każdym kierunku z małych wiosek i miejscowości. Mimo to, droga mleczna widoczna dobrze i można pokusić się o obserwacje DSów. Miejscówka nie jest może Ukraińskim niebem ale kandydat dobry. Jeżeli ktoś jest z okolicy to może podjechać i potwierdzić czy niebo nadaje się na listę, my prowadziliśmy tylko jedną obserwację."
+    },
+    {
+      "id": 10,
+      "name": "Osmolice",
+      "type": "spot",
+      "lat": 51.1775,
+      "lng": 22.78111111,
+      "description": "Jeżeli ktoś z Lublina chciałby pooglądać Drogę Mleczną i zapolować na obiekty głębokiego nieba a nie chce dalekich eskapad to po godzinie 23 w Osmolicach i okolicznych wsiach wyłączane są latarnie. Niebo nie jest wprawdzie czarne, a od Lublina (od północy) wciąż bije pomarańczowa łuna ale reszta nieba jest wolna od mocnego LP i można rozstawić się z teleskopem. Nie jest idealnie ale na początkowe zamiejskie obserwacje w sam raz."
+    },
+    {
+      "id": 11,
+      "name": "Biórków Mały",
+      "type": "spot",
+      "lat": 50.155,
+      "lng": 20.18805556,
+      "description": "Utwardzone miejsce obok śródpolnego krzyża. Bez problemu mieści się samochód i teleskop, ale czasem jest tam trochę błota. W ciemne przejrzyste wrześniowe noce o świcie całkiem ładnie widoczne światło zodiakalne. Na południowym zachodzie silna łuna od Krakowa. Na północnym wschodzie oddalona o kilkaset metrów stacja benzynowa, której światła trochę przeszkadzają w obserwacjach. Po 23:00 gasną latarnie uliczne w pobliskich miejscowościach, przez co niebo jest nieznacznie lepsze w drugiej połowie nocy."
+    },
+    {
+      "id": 12,
+      "name": "Czuszów/Bolowiec",
+      "type": "spot",
+      "lat": 50.155,
+      "lng": 20.18805556,
+      "description": "Dość szeroka, żwirowa droga (od jesieni 2015 już asfaltowa), którą sporadycznie coś przejeżdża (średnio trafia mi się tam 1 samochód na 2/3 sesje obserwacyjne). Od południowego zachodu dość mocna łuna od Krakowa (połączona z łunami od pobliskich Proszowic, Wieliczki i Niepołomic), a od zachodu nieco słabsza od Śląska. W drugiej połowie nocy, kiedy gasną latarnie w okolicznych miejscowościach, niebo jest zauważalnie lepsze niż wieczorem."
+    },
+    {
+      "id": 13,
+      "name": "Koskowa Góra",
+      "type": "spot",
+      "lat": 49.75805556,
+      "lng": 19.785,
+      "description": "Niebo ciemne, nieco lepsze niż na Polanie Kudłacze. Łuna od Krakowa dość spora. Całkiem niezły dojazd - drogą asfaltową (choć bardzo wąską) można dojechać w okolice kapliczki na przełęczy na wysokości 800 m.n.p.m. Na południowym zachodzie też niebo wyraźnie rozjaśnione. Na południowym wschodzie też niewielkie łuny (chyba od Nowego Targu i Mszany Dolnej). Horyzont odsłonięty, na północnym zachodzie obcięty na wysokości około 10 stopni, na południu na wysokości około 5 stopni. Na południowym wschodzie przy przejrzystym niebie o świcie widoczne Tatry. Jesienią warto tam pojechać w mgliste dni, bo miejsce to często znajduje się powyżej mgieł i niskich chmur."
+    },
+    {
+      "id": 14,
+      "name": "Przełęcz Marszałka Rydza-Śmigłego",
+      "type": "spot",
+      "lat": 49.68111111,
+      "lng": 20.28111111,
+      "description": "Doskonały dojazd asfaltową drogą, znacznie lepszy niż na Koskową Górę. Na miejscu niewielki plac obok pomnika. Śmiało zmieszczą się 2-3 samochody i 2-3 teleskopy. W razie czego w pobliżu powinno znaleźć się więcej miejsca. Północna część nieba zasłonięta dość wysoko przez drzewa. Południowy horyzont obcięty na wysokości nieco mniej niż 10 stopni. Południowa część nieba najciemniejsza. Na północy, wschodzie i zachodzie lekkie łuny. Na wschodzie w dużej odległości widoczne światła jakichś miejscowości, na tyle jednak daleko, że nie przeszkadza to w najmniejszym nawet stopniu. Niebo wydaje się być trochę lepsze niż na Koskowej Górze."
+    },
+    {
+      "id": 15,
+      "name": "Wilczyce",
+      "type": "spot",
+      "lat": 49.66777778,
+      "lng": 20.20166667,
+      "description": "Doskonały dojazd asfaltową drogą, znacznie lepszy niż na Koskową Górę. Na miejscu niewielki plac obok pomnika. Śmiało zmieszczą się 2-3 samochody i 2-3 teleskopy. W razie czego w pobliżu powinno znaleźć się więcej miejsca. Północna część nieba zasłonięta dość wysoko przez drzewa. Południowy horyzont obcięty na wysokości nieco mniej niż 10 stopni. Południowa część nieba najciemniejsza. Na północy, wschodzie i zachodzie lekkie łuny. Na wschodzie w dużej odległości widoczne światła jakichś miejscowości, na tyle jednak daleko, że nie przeszkadza to w najmniejszym nawet stopniu. Niebo wydaje się być trochę lepsze niż na Koskowej Górze."
+    },
+    {
+      "id": 16,
+      "name": "Suwalki",
+      "type": "spot",
+      "lat": 54.079965,
+      "lng": 22.867649,
+      "description": "Bardzo ciemne niebo, na tle Drogi Mlecznej można dostrzec ciemne mgławice. Na południowym-zachodzie mogą nieco przeszkadzać światła pochodzące od Poddubówka. Łuna miejska nie przeszkadza w większym stopniu. Zasięg gwiazdowy: +6.7 magnitudo."
+    },
+    {
+      "id": 17,
+      "name": "Trzebień",
+      "type": "spot",
+      "lat": 51.42361111,
+      "lng": 15.65138889,
+      "description": "Miejscówka koło Bolesławca na dolnym śląsku, na terenie Przemkowskiego Parku Krajobrazowego.Dojazd jest całkiem całkiem chociaż jest to miejsce po dawnym poligonie rosyjskim i trzeba uważać na ostatnim odcinku żeby się nie zakopać. Niebo jest tam ciemnie 2 w skali Bortle'a. Niezmiernym plusem jest to, że nic nie zasłania horyzontu. Jest co prawda mała łuna od sodówek z pobliskiej sortowni śmieci ale da się to przeżyć."
+    },
+    {
+      "id": 18,
+      "name": "Kruszyn",
+      "type": "spot",
+      "lat": 51.27555556,
+      "lng": 15.62972222,
+      "description": "Miejscówka na szybkie wypady. Niebo całkiem ładne, widać już ładnie drogę mleczną. Od strony zachodniej spora łuna od Bolesławca, od strony północno-wschodniej kilka sodówek w odległości około 1 km. Dojazd bardzo dobry."
+    },
+    {
+      "id": 19,
+      "name": "Zatom",
+      "type": "spot",
+      "lat": 53.13305556,
+      "lng": 15.84666667,
+      "description": "Miejsce zlotów forumastronomiczne.pl i nie tylko. Fantastyczne miejsce-widac tylko swiatlo gwiazd."
+    },
+    {
+      "id": 20,
+      "name": "Obserwatorium Astronomiczne Uniwersytetu Jagiellońskiego",
+      "type": "observatory",
+      "lat": 50.05333333,
+      "lng": 19.82388889,
+      "description": "Uniwersytet Jagielloński ufundowany został w 1364 roku, Obserwatorium - w 1792. Jego program naukowy obejmował obserwacje pozycji Słońca, Księżyca, satelitów Jowisza, obserwacje zakryć gwiazd, mechanikę nieba Układu Słonecznego i gwiazd podwójnych, obserwacje meteorologiczne, badanie gwiazd zaćmienowych, rotacji i kształtu Księżyca."
+    },
+    {
+      "id": 21,
+      "name": "Obserwatorium astronomiczne na Suhorze",
+      "type": "observatory",
+      "lat": 49.56916667,
+      "lng": 20.0675,
+      "description": "Since 1991, Mt. Suhora observatory has been part of a world-wide network of astronomical observatories called The Whole Earth Telescope, which carry out simultaneous observations of the variable stars (at specific set times), whenever possible throughout a 24 hour period. The observatories are situated at various geographical longitudes around the whole globe such that, if in one location the night is ending, a different site further to the west can continue the observations. Two week observation sessions, coordinated by the headquarters, take place a few times a year. The research is primarily focussed on white dwarfs, high density, compact stars which are in the final stages of their evolution. Pulsations in these stars cause brightness changes of between 0.005 to 0.2 mag."
+    },
+    {
+      "id": 22,
+      "name": "Obserwatorium Astronomiczne na Lubomirze",
+      "type": "observatory",
+      "lat": 49.76666667,
+      "lng": 20.05972222,
+      "description": "W październiku 2007 oddano no użytku nowy budynek Obserwatorium, który usytuowany został na miejscu starego. Wysokość na jakiej się znajduje to 904 m n.p.m. Nowe Obserwatorium zostało nazwane na cześć prof. Tadeusza Banachiewicza - założyciela starej placówki z okresu międzywojennego. Budynek został wybudowany w ramach projektu-Odbudowa przedwojennego Obserwatorium Astronomicznego - Miasteczko Gwiezdne Lubomir- w ramach Zintegrowanego Programu Operacyjnego Rozwoju Regionalnego (ZPORR), ze środków Europejskiego Funduszu Rozwoju Regionalnego, budżetu państwa oraz budżetu gminy. Obserwatorium zostało wyposażone w dwie kopuły astronomiczne o średnicach 3m i 5m. W 2010 r. oddany został do użytku dodatkowy pawilon obserwacyjny, wykonany na podobieństwo pawilonów z okresu międzywojennego.Aktualnie działanie Obserwatorium, skupia się na trzech różnych płaszczyznach: naukowej, dydaktycznej i popularyzatorskiej."
+    },
+    {
+      "id": 23,
+      "name": "Szkolne Obserwatorium Astronomiczne w Gawłowie",
+      "type": "observatory",
+      "lat": 50.02472222,
+      "lng": 20.46166667,
+      "description": "Jedyne obserwatorium w Gminie Bochnia. Organizujemy - wykłady popularnonaukowe - obserwacje nocnego nieba i Słońca - obserwacje ciekawych zjawisk astronomicznych."
+    },
+    {
+      "id": 24,
+      "name": "Pulwy, Rząśnik pod Wyszkowem",
+      "type": "spot",
+      "lat": 52.712080,
+      "lng": 21.423447,
+      "description": "Są to łąki i użytki zielone położone na dawnym starorzeczu Narwi. Teren płaski jak stół, bez zasłon terenowych. Bezpośredniego światła sztucznego nie ma - zasłonięte lasem. Czasem tylko nisko nad horyzontem może przeszkadzać łuna od świateł Rząśnika na Zachodzie. Dojazd elegancki."
+    },
+    {
+      "id": 25,
+      "name": "Tarnawa Niżna",
+      "type": "spot",
+      "lat": 49.131526,
+      "lng": 22.802214,
+      "description": "Jakości nieba chyba nie trzeba przedstawiać. Jesli komuś nie chce sie chodzić po łąkach GPS wskazuje maleńkie miejsce na samochód i teleskop na w miarę ubitym gruncie z nieograniczonym widokiem na południe wschód i zachód lekko ograniczony widok na północ - rosnące wzdłuż potoku drzewa. Łatwo zlokalizować - jadąc od Tarnawy przed skrętem po lewej stronie leżą opuszczone bele siana. Jedyna wada - znad Sanu często unosi sie mgła, która jesli warunki sa niepomyślne moze sie rozciągnąć nad cała dolinka. W okolicy jest jednak kilka wyższych wzniesień - przy odrobinie wyobraźni mozna podjechać nawet samochodem i próbować uniknąć mgły. Dodatkowa zaleta - prawie co noc można spotkać publiczność. Dziki i sarny łażą gdzie popadnie, ale sa niegroźne. Poza tym bardzo mili przedstawiciele Straży Granicznej chętnie zagladna co tez ciekawego mozna zobaczyć na niebie"
+    },
+    {
+      "id": 26,
+      "name": "Tonia/Mieczków",
+      "type": "spot",
+      "lat": 51.388036,
+      "lng": 18.178642,
+      "description": "Brak lamp ulicznych na horyzoncie, do Wieruszowa (9 tys. mieszkańców) 15km, do Ostrzeszowa (15tys) 22km, podobnie do Kępna. W okolicznych wioskach tylko kilka latarni, może nawet gasną o północy (nie jestem pewien). Bardzo odosobnione miejsce. Dojazd lekko utrudniony- ostatni odcinek to droga polna przez las. Widoczność do horyzontu lekko ograniczona lasami, zależnie od której strony polany staniemy, jednak ustawiając się przy północnej ścianie lasu mamy ładny widok do kilku stopni nad południowym horyzontem. Myślę że z tej drugiej polany widać byłoby nieco niżej."
+    },
+    {
+      "id": 27,
+      "name": "Muczne",
+      "type": "spot",
+      "lat": 49.127306,
+      "lng": 22.742124,
+      "description": "43 sztuk mieszkańców - niebo bieszczadzkie, droga mleczna po horyzont. Chyba w samej miejscowości najlepiej sie ustawić na parkingu samochodowym przy wyjściu na żółty szlak na Bukowe Berdo BPN. Horyzont umiarkowanie zasłonięty górami, żadnych łun. W nocy sarny, dziki, wilk: sztuk 1."
+    },
+    {
+      "id": 28,
+      "name": "Granica",
+      "type": "spot",
+      "lat": 52.286344,
+      "lng": 20.447416,
+      "description": "Parking na granicy parku Kampinoskiego w miejscowości Granica. Ta okolica wydaje mi sie najsensowniejsza w promieniu ok 50 km od zachodnich granic Warszawy. Dojazd jest bardzo dobry cały czas asfalt zaś parking ubity i ze stabilnym podłożem. Przy okazji miejsce na ognisko albo namiot. Niebo jak to w okolicach Warszawy. Parking ze wszystkich stron otoczony lasem wiec zakrywa lampy ale i horyzont. W zenicie droga mleczna widoczna. Gromady z katalogu messiera widoczne bez problemu. Galaktyki przy dobrym wietrze takze."
+    },
+    {
+      "id": 29,
+      "name": "Dosłońce",
+      "type": "spot",
+      "lat": 50.35194444,
+      "lng": 20.2075,
+      "description": "Kawałek asfaltu przy drodze (którą przez całą noc przejeżdża max. kilka samochodów), na początku drogi polnej, na którym zmieści się bez problemu 2-3 teleskopy, obok miejsce na 2-3 samochody. W 2014 roku w kierunku wschodnim w odległości kilkuset metrów pojawiła się latarnia, która lekko przeszkadza podczas obserwacji wieczornych, później (chyba około 23:00) gaśnie. Horyzont dookoła pięknie odsłonięty, bo miejscówka znajduje się na grzbiecie niewielkiego wzniesienia-340 m.n.p.m. Na południowym zachodzie łuna od Krakowa, na zachodzie znacznie mniejsza łuna od Miechowa, na północy niewielka łuna od Jędrzejowa, a na północnym wschodzie od Buska Zdroju. Tak jak wszędzie w tej okolicy, w drugiej połowie nocy niebo trochę ciemniejsze."
+    },
+    {
+      "id": 30,
+      "name": "Trzonów",
+      "type": "spot",
+      "lat": 50.44361111,
+      "lng": 20.25416667,
+      "description": "Kawałek asfaltu przy drodze, którą przez całą noc przejeżdża max. kilka samochodów. Tu też zmieszczą się ze 2-3 teleskopy. Niebo dookoła odsłonięte, miejsce to nie znajduje się na szczycie wzniesienia,298 m.n.p.m. Na południu łuna od Krakowa nie jest już zbyt duża (choć nadal całkiem wyraźna). Na północy dość wyraźna łuna od Jędrzejowa, a na wschodzie widoczna też łuna od Buska Zdroju. W drugiej połowie nocy niebo wyraźnie ciemniejsze niż wieczorem. Okolica ta jest jednym z najciemniejszych obszarów w szeroko pojętym sąsiedztwie Krakowa"
+    },
+    {
+      "id": 31,
+      "name": "Januszowice",
+      "type": "spot",
+      "lat": 50.2525,
+      "lng": 20.04333333,
+      "description": "Fajna miejscówka blisko Krakowa z dobrym dojazdem. To jest krótka asfaltowa droga przez pola, zakończona w polach, więc w zwykle nic tam nocą nie jeździ. Miejsce położone na szczycie lokalnego płaskowyżu-309 m.n.p.m., więc horyzont dookoła pięknie odsłonięty. Łuna od Krakowa niestety jest w tym miejscu dość uciążliwa, trochę (ale w znacznie mniejszym stopniu) przeszkadzają pobliskie Słomniki. Na północy lekko widoczna łuna od Miechowa, na zachodzie niebo trochę rozjaśnione już przez miasta Śląska."
+    },
+    {
+      "id": 32,
+      "name": "Pola w Sułoszowej",
+      "type": "spot",
+      "lat": 50.25166667,
+      "lng": 19.71388889,
+      "description": "Żwirowa zatoczka przy asfaltowej drodze. Pomieści ze 2-3 samochody i do tego teleskopy. Miejsce znajduje się na rozległym Płaskowyżu Sułoszowskim-465 m.n.p.m., na którym podobnych miejscówek znajdziemy przynajmniej kilka. Horyzont pięknie odsłonięty, jedynie na zachodzie obcięty na wysokości kilku stopni przez nieodległe drzewa. Niestety, jest to już blisko Śląska i całe zachodnie niebo jest wyraźnie rozświetlone. Na południowym wschodzie z kolei dość duża łuna od Krakowa."
+    },
+    {
+      "id": 33,
+      "name": "Przełęcz Sanguszki",
+      "type": "spot",
+      "lat": 49.8125,
+      "lng": 19.75805556,
+      "description": "Wysoko- 533 m.n.p.m., horyzont odsłonięty, dość ciemne niebo, choć na północy dość duża łuna od Krakowa. Ostatnie kilkaset metrów droga kamienista, ale da się dojechać osobówką. Miejsce znajduje się pomiędzy polami, około szczytu wzniesienia. Drogą nocą raczej nic nie jeździ."
+    },
+    {
+      "id": 34,
+      "name": "Przełęcz nad Mszaną",
+      "type": "spot",
+      "lat": 49.51138889,
+      "lng": 21.62888889,
+      "description": "Żwirowa, równa droga do lasu. Dość mocno zasłonięty północny i północno zachodni horyzont. Ciemno, nie ma żadnych latarni w zasięgu wzroku. Na północy wyraźna łuna od Krosna, która jednak nie jest bardzo dużym problemem. Południowe, wschodnie i zachodnie niebo bardzo ciemne. Pobliską drogą między 23 a świtem przejeżdża najwyżej kilka samochodów, wcześniej jest to raczej kilka na godzinę, a około 22 może nawet kilkanaście na godzinę. Po 23 gasną latarnie w Dukli i innych pobliskich miejscowościach i niebo (zwłaszcza północno wschodnie) zauważalnie się poprawia."
+    },
+    {
+      "id": 35,
+      "name": "Tylawa",
+      "type": "spot",
+      "lat": 49.47444444,
+      "lng": 21.68861111,
+      "description": "Żwirowa, równa droga do lasu, 434 m.n.p.m. Południowy horyzont zupełnie odsłonięty, niestety poniżej horyzontu kilka latarni przy drodze na Barwinek, na szczęście, w drugiej połowie nocy latarnie te są zgaszone. Na północy wyraźna, ale niezbyt uciążliwa łuna od Krosna, a obok niej znacznie mniejsza i słabo widoczna gołym okiem łuna od Jasła. Niebo na południowym wschodzie i południowym zachodzie bardzo ciemne. Na południu też bardzo ciemne, ale znajduje się tam maleńka (niemal punktowa) i dość słaba łuna chyba od przejścia granicznego w Barwinku. W oddali na południu widoczne czasem światła przejeżdżających drogą krajową samochodów, na szczęście na tyle daleko, że nie są one problemem."
+    },
+    {
+      "id": 36,
+      "name": "Lubatowa",
+      "type": "spot",
+      "lat": 49.53611111,
+      "lng": 21.74916667,
+      "description": "Polna droga odchodząca od asfaltowej, 460 m.n.p.m.. Asfaltową drogą przed północą jeździ trochę samochodów, warto więc nieco oddalić się od niej, zwłaszcza jeśli chcemy obserwować niebo wieczorem. Na północy dość spora łuna od Krosna, za to niebo południowe, południowo-wschodnie i południowo-zachodnie ciemne po sam horyzont. Horyzont w większości odsłonięty, na południowym zachodzie obcięty na wysokości kilku stopni przez pobliską, majestatyczną wręcz z tej odległości górę Cergową."
+    },
+    {
+      "id": 37,
+      "name": "Przymiarki",
+      "type": "spot",
+      "lat": 49.54111111,
+      "lng": 21.79777778,
+      "description": "Okolice szczytu góry Przymiarki-605 m.n.p.m.. Dojazd nową asfaltową drogą niemal do samego szczytu. Jedynie ostatnie 100 - 200 metrów drogą kamienistą, jednak da się tam dojechać osobówką. Horyzont pięknie odsłonięty, niebo dość ciemne, choć na północy łuna od Krosna jest całkiem spora. Miejsce znajduje się pośród łąk, w cichej spokojnej okolicy."
+    },
+    {
+      "id": 38,
+      "name": "Kampions, ok. Łazów",
+      "type": "spot",
+      "lat": 52.295383,
+      "lng": 20.401113,
+      "description": "Dojazd droga asfaltowa przechodzaca w wąską leśną. Za zaletę jak na kampinos mogę podać, że droga nie jest ograniczona zakazem wjazdu, więc można dotrzeć głęboko w puszczę autem bez łamania przepisów. Warto uważać z samochodem o niskim podwoziu. Po lewej stronie drogi jest kilka polanek, których nie zaznaczono na mapie google, ale są. Ja wybieram tę która będzie między zamieszkałym domkiem po prawej stronie, a opuszczoną ruderą po lewej stronie. Następna mniejsza polana jest za ruderą. Otwarty widok na południe wszystkie inne strony osłonięte lasem. Niestety nie ma tu ubitej ziemi więc trzeba się rozbić na łączce. Niebo oczywiście z łuną nad Warszawą na zachodzie, ale już dość odległą i widoczną Łuną nad Sochaczewem na wschodzie. Po prostu podwarszawskie więc luksusuów nie ma."
+    },
+    {
+      "id": 39,
+      "name": "Równica (Ustroń)",
+      "type": "spot",
+      "lat": 49.718096,
+      "lng": 18.84872,
+      "description": "Podszczytowy parking przy schronisku turystycznym na górze Równica (Ustroń), wysokość miejscówki to ponad 700 m.n.p.m. Dojazd dobry droga asfaltówa. Na górze płatne za wjazd i postój. Zaświetlenie nieba od kierunku pln. i zach. średnie, a od pd. i wsch. znikome."
+    },
+    {
+      "id": 40,
+      "name": "Czeremcha",
+      "type": "spot",
+      "lat": 49.38833333,
+      "lng": 21.77916667,
+      "description": "Jedna z ciemniejszych miejscówek w Beskidzie Niskim, 530 m.n.p.m.. Żwirowa, bardzo dziurawa droga. Na dojazd z Jaślisk (około 7 km) trzeba liczyć około 20 minut. Za to niebo fantastyczne. Słaba łuna na północy i północnym zachodzie. Bardzo słaba malutka (na granicy widoczności gołym okiem) łuna na południowym zachodzie i na północnym zachodzie. Południowy horyzont zupełnie odsłonięty, wschodni obcięty na wysokości około 10 stopni. "
+    },
+    {
+      "id": 41,
+      "name": "Osławica",
+      "type": "spot",
+      "lat": 49.27611111,
+      "lng": 22.09333333,
+      "description": "Miejsce na pograniczu Beskidu Niskiego i Bieszczadów. Od asfaltowej drogi w Bieszczady odchodzi żwirowa droga, którą jest zwożone drzewo z lasu, jednak poza krótkim odcinkiem na początku jest ona nieprzejezdna (przynajmniej dla samochodów osobowych), za to obok niej jest równiutka ścieżka przez łakę, którą (sprawdzone w lato, gdy było w miarę sucho) można jechać około kilometra w górę. Miejscówka byłaby bliska ideałowi, gdyby nie to, że dokładnie na południu znajduje się maleńka miejscowość - Nowy Łupków, która jednak dość mocno świeci przez całą noc. W efekcie największa łuna (co prawda dość słaba, ale jednak w takim miejscu trochę przeszkadzająca) jest dokładnie na południu. W bezchmurne noce poza tą niewielką łuną od Nowego Łupkowa z trudem można wypatrzeć lekkie rozjaśnienie nieba na północy i północnym zachodzie."
+    },
+    {
+      "id": 42,
+      "name": "Lisów",
+      "type": "spot",
+      "lat": 50.8025,
+      "lng": 18.76861111,
+      "description": "Miejscówka grupy śląskiej w szczególności dojeżdżają tutaj osoby z okolic Częstochowy, Kochanowic, Lublińca ale pojawiają się też osoby z dalszych rejonów śląska. Dojazd z drogi 46 Częstochowa - Lubliniec, kierunek na Taninę. Dalej już lasem przez Taninę, Łęg, Łebki. Jak na warunki leśne komfort jazdy jest całkiem fajny, cały czas utwardzoną drogą ale trochę slalomem. Na miejscu wystawiamy się przy praktycznie nieuczęszczanej drodze. Warunki obserwacyjne wyśmienite. W pobliżu nie ma lepszych warunków. W naszej grupie jest sporo obserwatorów i jak na razie dwóch astro-fotografów."
+    },
+    {
+      "id": 43,
+      "name": "Przełęcz Ostra",
+      "type": "spot",
+      "lat": 49.6415,
+      "lng": 20.3836,
+      "description": "Dojazd drogą powiatową 1609K Limanowa- Kamienica , na ok. 10km od Limanowej na przełeczy skręt w prawo w asfaltową boczną rzadko uczęszczaną drogę . Po ok 250m szersze pobocze gdzie można zostawić samochód i rozstawić sprzęt . Okolica dosyć ciemna z kilkoma domami wygaszanymi całkowicie nocą . Odsłonięty południowo- wschodni i południowy i południowo - zachodni horyzont . Zachodnia część kilka stopni zasłonięta przez szczyt . Północny zaświetlony przez odległą o 10 km Limanową."
+    },
+    {
+      "id": 44,
+      "name": "Wierzbanowa",
+      "type": "spot",
+      "lat": 49.75055556,
+      "lng": 20.12694444,
+      "description": "Całkiem niezła miejscówka stosunkowo blisko Krakowa. Utwardzona polna droga. Południowy horyzont obcięty na wysokości około 10 stopni. Łuna od Krakowa dość spora, ale nie tragiczna, na wschodzie niezbyt duża łuna od Limanowej, nieco na zachód od południa delikatna łuna od Mszany Dolnej. W odległości kilku kilometrów i większej widoczne latarnie, które jednak nie przeszkadzają w obserwacjach. Przeszkadzają za to trochę przejeżdżające pobliską drogą wojewódzką samochody (po północy jest przejeżdża ich max. kilka na godzinę)."
+    },
+    {
+      "id": 45,
+      "name": "Mielcuchy, gmina Czajków",
+      "type": "spot",
+      "lat": 51.44444444,
+      "lng": 18.32388889,
+      "description": "W miarę dobry widok w każdym kierunku (co najwyżej parę stopni może ograniczać las), cisza spokój na wsi, lampy wyłączane koło 23. Nisko nad horyzontem mogą być widoczne małe łuny np od Lututowa (kierunek S)."
+    },
+    {
+      "id": 46,
+      "name": "Grzyb, gmina Klonowa",
+      "type": "spot",
+      "lat": 51.44111111,
+      "lng": 18.35305556,
+      "description": "W miarę dobry widok w każdym kierunku (co najwyżej parę stopni może ograniczać las), cisza spokój na wsi, lampy wyłączane koło 23. Nisko nad horyzontem mogą być widoczne małe łuny np od Lututowa (kierunek S)."
+    },
+    {
+      "id": 47,
+      "name": "Wrocanka",
+      "type": "spot",
+      "lat": 49.65083333,
+      "lng": 21.73555556,
+      "description": "Okolice skrzyżowania drogi asfaltowej z drogą polną. Świetny dojazd, dużo miejsca, bez problemu zmieści się samochód (a nawet i kilka), bardzo blisko Krosna - z okolic centrum w to miejsce jedzie się około 10 minut. Niebo nie jest idealne, ale na szybki wypad poza Krosno nadaje się całkiem nieźle. Horyzont dookoła pięknie odsłonięty, obcięty na wysokości może 2 - 3 stopni. Na północy i północnym zachodzie duża łuna od Krosna, za to niebo południowe i zachodnie całkiem ciemne, zwłaszcza w drugiej połowie nocy."
+    },
+    {
+      "id": 48,
+      "name": "Franków",
+      "type": "spot",
+      "lat": 49.57166667,
+      "lng": 21.64972222,
+      "description": "Okolice szczytu wzgórza Franków, zwanego też Wzgórzem 534. Punkt widokowy koło pomnika upamiętniającego walki, które toczyły się w tamtej okolicy pod koniec drugiej wojny światowej. Dość dobry dojazd od strony drogi Dukla-Nowy Żmigród a od niedawna także z Pałacówki. Ostatnie kilkaset metrów to droga żwirowa, którą trzeba jechać ostrożnie, ze względu na głębokie koleiny (zwłaszcza na końcowym odcinku, jakieś 100 metrów przed szczytem). Niebo jest tam naprawdę ciemne, szczególnie w drugiej połowie nocy, kiedy gasną latarnie w okolicznych wioskach. Po północnej stronie nieba wyraźna, ale niezbyt uciążliwa łuna od Krosna, na wschodzie delikatna łuna od Rymanowa i Rymanowa Zdroju (i być może też Sanoka), na północnym zachodzie delikatna łuna od Jasła. Najciemniejsze niebo południowe. Horyzont pięknie odsłonięty, jedynie północny wschód obcięty na wysokości około 10 stopni przez pobliskie drzewa.Okolice skrzyżowania drogi asfaltowej z drogą polną. Świetny dojazd, dużo miejsca, bez problemu zmieści się samochód (a nawet i kilka), bardzo blisko Krosna - z okolic centrum w to miejsce jedzie się około 10 minut. Niebo nie jest idealne, ale na szybki wypad poza Krosno nadaje się całkiem nieźle. Horyzont dookoła pięknie odsłonięty, obcięty na wysokości może 2 - 3 stopni. Na północy i północnym zachodzie duża łuna od Krosna, za to niebo południowe i zachodnie całkiem ciemne, zwłaszcza w drugiej połowie nocy."
+    },
+    {
+      "id": 49,
+      "name": "Okolice miejscowości Dobre",
+      "type": "spot",
+      "lat": 52.326215,
+      "lng": 21.763986,
+      "description": "Dojazd cały czas asfaltową drogą, ostatnie 100m żwirówka ale bez problemu przejezdna. Widoczna łuna po zachodniej stronie. Nie widać dookoła żadnych latarni z pobliskich wiosek."
+    },
+    {
+      "id": 50,
+      "name": "Północny wschód od Stoczka Łukowskiego",
+      "type": "spot",
+      "lat": 51.986818,
+      "lng": 22.051602,
+      "description": "Dojazd bardzo dobry jedynie ostatnie 2 km polnymi drogami lecz przejezdne. Ale w zimę gdy spadnie śnieg i podczas roztopów może być problem. Bardzo niewielka łuna od Stoczka, poza tym niebo super. Nie oślepiają żadne latarnie, wszystkie okoliczne wioski odcięte drzewami."
+    }
+
+
+  ]
+}

@@ -1,0 +1,21 @@
+.animation {
+  background-color: #000;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.canvas_meteor {
+  position: relative;
+  top: 0;
+  left: 0
+}
+
+.terrain {
+  position: absolute;
+  bottom: 0;
+}
