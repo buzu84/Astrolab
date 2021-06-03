@@ -11,7 +11,11 @@ Tech stack:
 - Sass,
 - Json-server.
 
-Setup
+Setup:
+You will need to set up .env file with:
+REACT_APP_GOOGLE_MAPS_API_KEY="Your API key"
+REACT_APP_NASA_API_KEY="Your API key"
+REACT__APP_GOOGLE_TRANSLATION_API_KEY="Your API key"
 
 Run:
 ### `npm install`
